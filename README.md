@@ -1,5 +1,5 @@
 # TinDog
-A responsive and stunning landing page designed to meet new and intresting dogs nearby.
+A responsive and stunning landing page designed to meet new and interesting dogs nearby.
 
 <img src='./resources/1 Home.PNG'>
 <img src='./resources/2 Home.PNG'>
